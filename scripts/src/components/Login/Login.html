@@ -1,0 +1,17 @@
+<div>Login User</div>
+<br />
+<form (ng-submit)="LogIn()" [ng-form-model]="addLoginForm">
+	<div class="input-group">
+		<span>Email</span>
+		<input type="email" id="email" ng-control="email" class="form-control" />
+	</div>
+	<div class="input-group">
+		<span>Password</span>
+		<input type="password" id="password" ng-control="password" class="form-control" />
+	</div>
+	<div>&nbsp;</div>
+	<div class="input-group">
+		<input type="submit" value="Login" class="btn btn-primary" />
+		<input type="reset" value="Reset" class="btn" >
+	</div>
+</form>
