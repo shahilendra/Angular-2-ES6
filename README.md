@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/shahilendra/Angular-2-ES6.png?label=ready&title=Ready)](https://waffle.io/shahilendra/Angular-2-ES6)
 # Angular2 Starter [![Join the chat at https://gitter.im/EladRK/angular-starter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/EladRK/angular-starter?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 [![Kanban]](https://waffle.io/shahilendra/Angular-2-ES6)
