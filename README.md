@@ -1,6 +1,6 @@
 # Angular2 Starter [![Join the chat at https://gitter.im/EladRK/angular-starter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/EladRK/angular-starter?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-[![Kanban](https://img.shields.io/badge/mobile--angular--ui-kanban-blue.svg)](https://waffle.io/shahilendra/Angular-2-ES6)
+[![Kanban]()](https://waffle.io/shahilendra/Angular-2-ES6)
 
 A starter template for Angular2 applications.
 
